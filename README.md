@@ -1,2 +1,2 @@
-# throughput
+# Throughput
 Business Management System
